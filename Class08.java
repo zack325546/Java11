@@ -30,4 +30,3 @@ public class Class08
       cc.show();   
    }
 }
-© 2022 GitHub, Inc.
