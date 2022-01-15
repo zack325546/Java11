@@ -47,7 +47,7 @@ class CStu implements Data,Test
    }
 }
 
-public class hw11_11
+public class Class11.java
 {
    public static void main(String args[])
    {
